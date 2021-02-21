@@ -1,4 +1,8 @@
-### Hi there 👋
+### HOLAAAAA!! SOY KENNETH👋
+
+- 🔭 I’m currently working on Vitag - https://tligent.com/ViTAG
+
+Entusiasta por la posibilidad de aplicar Inteligencia artificial en el desarrollo web.
 
 <!--
 **polopopeye/polopopeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
