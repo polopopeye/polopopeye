@@ -1,8 +1,29 @@
-### HOLAAAAA!! SOY KENNETH👋
+# KLK MANIN! 👋
+esto es lo que hago ahora mismo... 
+- Vitag - https://tligent.com/ViTAG 🔥 
+- StonksBot - 21/04/21 a las 21:21:21 (Trabajando en la web) 🥳🎉
+- AiForText - Esto va para largo mi pana... 😔 https://aifortext.com/
 
-- 🔭 I’m currently working on Vitag - https://tligent.com/ViTAG
 
-Entusiasta por la posibilidad de aplicar Inteligencia artificial en el desarrollo web.
+## La Inteligencia artificial en el desarrollo web está bien cheto 
+
+### VITAG
+Es un buscador de tags personalizados que puedes crear para etiquetar tus videos y compartirlos con otra peña. Puede ser muy util por ejemplo:
+* Si etiquetas todos los goles de Ronaldinho, podrás verlos solo buscandolos.
+* Si etiquetas una sesión de una operación quirurgica, puedes enviarselo a tus estudiantes, destacando los momentos mas importantes.
+* Si subes un video porno y quieres ver donde sale pechos de Sasha Gray, mediante IA se puede etiquetar automaticamente. 
+* Mediante la tecnologia anterior podemos saber si un video contiene violencia, porno, ISIS y esas cosas útiles para la moderación de un sitio web. 
+
+Vitag esta orientado para ser un script, sin embargo pretendemos que sea también un addon para chrome y firefox ademas de plugins para wordpress y otros servicios de posting. 
+https://www.youtube.com/watch?v=sFNOpfu7kYQ
+
+### STONKS BOT
+Un robot de trading que gestiona robots de trading, JAJA KE LOKO, pues eso invierte en la bolsa a traves de las performance de otros robots que han obtenido muy buenos resultados. 
+https://www.youtube.com/watch?v=bx5zTpodpcg
+https://www.youtube.com/watch?v=CpN7rvHAYys (Aqui un esprint to EZ para terminarlo en 5 min).
+
+### AIFORTEXT
+Copywritting automatico, utilizando Markov Chains e inteligencia artificial, el objetivo es llenar internet de noticias de calidad y si para ello tengo que llenarlo de Fake News primero que así sea. 
 
 <!--
 **polopopeye/polopopeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
