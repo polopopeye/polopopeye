@@ -1,7 +1,7 @@
 # KLK MANIN! 👋
 esto es lo que hago ahora mismo... 
 - Vitag - https://tligent.com/ViTAG 🔥 
-- StonksBot - 21/04/21 a las 21:21:21 (Trabajando en la web) 🥳🎉
+- StonksBot - https://stonksbot-344e2.web.app/ 🥳🎉
 - AiForText - Esto va para largo mi pana... 😔 https://aifortext.com/
 
 
