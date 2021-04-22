@@ -19,8 +19,10 @@ https://www.youtube.com/watch?v=sFNOpfu7kYQ
 
 ### STONKS BOT
 Un robot de trading que gestiona robots de trading, JAJA KE LOKO, pues eso invierte en la bolsa a traves de las performance de otros robots que han obtenido muy buenos resultados. 
+
 https://www.youtube.com/watch?v=bx5zTpodpcg
-https://www.youtube.com/watch?v=CpN7rvHAYys (Aqui un esprint to EZ para terminarlo en 5 min).
+
+https://www.youtube.com/watch?v=7oJl_64jVIw (Aqui un esprint to EZ para terminarlo en 5 min).
 
 ### AIFORTEXT
 Copywritting automatico, utilizando Markov Chains e inteligencia artificial, el objetivo es llenar internet de noticias de calidad y si para ello tengo que llenarlo de Fake News primero que así sea. 
