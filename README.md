@@ -1,4 +1,7 @@
 # KLK MANIN! 👋
+<br>
+![Bienvenido](https://img.17qq.com/images/bjihihjffdz.jpeg)
+<br>
 esto es lo que hago ahora mismo... 
 - Vitag - https://tligent.com/ViTAG 🔥 
 - StonksBot - https://stonksbot-344e2.web.app/ 🥳🎉
@@ -29,9 +32,15 @@ Copywritting automatico, utilizando Markov Chains e inteligencia artificial, el 
 
 
 ## Blog/CV
+
+
+
 https://kennethsuarez.es/ <br>
 Eres el visitante numero...
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkennethsuarez.es&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://kennethsuarez.es)
+<br>
+Mas de mis Stats: <br>
+https://profile-summary-for-github.com/user/polopopeye
 
 <!--
 **polopopeye/polopopeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
