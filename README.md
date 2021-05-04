@@ -1,7 +1,8 @@
 # KLK MANIN! 👋
 <br>
-<img src="https://img.17qq.com/images/bjihihjffdz.jpeg" />
-![Bienvenido](https://img.17qq.com/images/bjihihjffdz.jpeg)
+
+<center><img src="https://img.17qq.com/images/bjihihjffdz.jpeg" /></center>
+
 <br>
 esto es lo que hago ahora mismo... 
 - Vitag - https://tligent.com/ViTAG 🔥 
