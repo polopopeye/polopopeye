@@ -27,6 +27,10 @@ https://www.youtube.com/watch?v=7oJl_64jVIw (Aqui un esprint to EZ para terminar
 ### AIFORTEXT
 Copywritting automatico, utilizando Markov Chains e inteligencia artificial, el objetivo es llenar internet de noticias de calidad y si para ello tengo que llenarlo de Fake News primero que así sea. 
 
+
+## Blog/CV
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkennethsuarez.es&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=clicks&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **polopopeye/polopopeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
