@@ -1,14 +1,20 @@
-# KLK MANIN! 👋
-<br>
 
-<center><img src="https://img.17qq.com/images/bjihihjffdz.jpeg" /></center>
+<center>Bienvenido/Welcome/
+ようこそ/Добро пожаловать</center>
+
+<center><img src="https://i.pinimg.com/originals/84/1a/eb/841aeb9f113999616d097b414c539dfd.gif" /></center>
+
+
 
 <br>
+# AQUI MIS PROJECTOS MI PANA! 👋
 esto es lo que hago ahora mismo... 
 - Vitag - https://tligent.com/ViTAG 🔥 
 - StonksBot - https://stonksbot-344e2.web.app/ 🥳🎉
 - AiForText - Esto va para largo mi pana... 😔 https://aifortext.com/
 
+
+<center><img src="https://img.17qq.com/images/bjihihjffdz.jpeg" /></center>
 
 ## La Inteligencia artificial en el desarrollo web está bien cheto 
 
@@ -33,7 +39,12 @@ https://www.youtube.com/watch?v=7oJl_64jVIw (Aqui un esprint to EZ para terminar
 Copywritting automatico, utilizando Markov Chains e inteligencia artificial, el objetivo es llenar internet de noticias de calidad y si para ello tengo que llenarlo de Fake News primero que así sea. 
 
 
+<center><img src="https://i.pinimg.com/originals/6f/32/ad/6f32ad8d0348c47ad2021019ba39cdf3.gif" /></center>
+
+
 ## Blog/CV
+
+
 
 
 
@@ -43,6 +54,8 @@ Eres el visitante numero...
 <br>
 Mas de mis Stats: <br>
 https://profile-summary-for-github.com/user/polopopeye
+
+<center><img src="https://i.pinimg.com/originals/62/0b/9c/620b9c6b7a4dd9789be7ce2b30e4aea2.gif" /></center>
 
 <!--
 **polopopeye/polopopeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
