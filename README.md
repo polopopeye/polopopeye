@@ -1,6 +1,5 @@
 
-<center>Bienvenido/Welcome/
-ようこそ/Добро пожаловать</center>
+# Bienvenido  /  Welcome  /  ようこそ  /  Добро пожаловать
 <br>
 <br>
 
