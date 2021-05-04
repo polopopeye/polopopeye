@@ -1,5 +1,6 @@
 # KLK MANIN! 👋
 <br>
+<img src="https://img.17qq.com/images/bjihihjffdz.jpeg" />
 ![Bienvenido](https://img.17qq.com/images/bjihihjffdz.jpeg)
 <br>
 esto es lo que hago ahora mismo... 
