@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=sFNOpfu7kYQ
 ### STONKS BOT
 Un robot de trading que gestiona robots de trading, JAJA KE LOKO, pues eso invierte en la bolsa a traves de las performance de otros robots que han obtenido muy buenos resultados. 
 
+LO EXPLICO MEJOR EN MI BLOG : https://kennethsuarez.es/post/article/?p=Proyecto%20StonksBot%2C%20Como%20duplico%20mi%20dinero%20sin%20hacer%20absolutamente%20nada%20como%20si%20fuera%20un%20fondo%20de%20ahorros
+
 https://www.youtube.com/watch?v=bx5zTpodpcg
 
 https://www.youtube.com/watch?v=7oJl_64jVIw (Aqui un esprint to EZ para terminarlo en 5 min).
