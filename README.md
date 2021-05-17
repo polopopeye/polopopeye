@@ -66,8 +66,10 @@ Eres el visitante numero...
 Mas de mis Stats: <br>
 https://profile-summary-for-github.com/user/polopopeye
 
-Last 7 days:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@42485642-a023-4c60-8642-01f69c6ee980/781fcdde-bb5f-41be-abc2-661c5e4dda81.png" /></a>
+Last 7 days: <br>
+
+  <img src="https://wakatime.com/share/@42485642-a023-4c60-8642-01f69c6ee980/781fcdde-bb5f-41be-abc2-661c5e4dda81.png" />
+  
 
 <br>
 <br>
