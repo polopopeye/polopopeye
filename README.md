@@ -7,12 +7,11 @@
 <br>
 <br>
 
-# AQUI MIS PROJECTOS MI PANA! 👋
+# AQUI MIS PROJECTOS  👋
 
-esto es lo que hago ahora mismo... 
 - Vitag - https://tligent.com/ViTAG 🔥 
 - StonksBot - https://stonksbot-344e2.web.app/ 🥳🎉
-- AiForText - Esto va para largo mi pana... 😔 https://aifortext.com/
+- AiForText - Esto va para largo 😔 https://aifortext.com/
 
 <br>
 <br>
@@ -21,29 +20,25 @@ esto es lo que hago ahora mismo...
 <center><img src="https://img.17qq.com/images/bjihihjffdz.jpeg" /></center>
 <br>
 
-## La Inteligencia artificial en el desarrollo web está bien cheto 
+## Me gusta la Inteligencia artificial en el desarrollo web 
 
 ### VITAG
-Es un buscador de tags personalizados que puedes crear para etiquetar tus videos y compartirlos con otra peña. Puede ser muy util por ejemplo:
+Es un buscador de tags personalizados que puedes crear para etiquetar tus videos y compartirlos con otra peña. Puede ser muy útil por ejemplo:
 * Si etiquetas todos los goles de Ronaldinho, podrás verlos solo buscandolos.
 * Si etiquetas una sesión de una operación quirurgica, puedes enviarselo a tus estudiantes, destacando los momentos mas importantes.
-* Si subes un video porno y quieres ver donde sale pechos de Sasha Gray, mediante IA se puede etiquetar automaticamente. 
-* Mediante la tecnologia anterior podemos saber si un video contiene violencia, porno, ISIS y esas cosas útiles para la moderación de un sitio web. 
+
 
 Vitag esta orientado para ser un script, sin embargo pretendemos que sea también un addon para chrome y firefox ademas de plugins para wordpress y otros servicios de posting. 
 https://www.youtube.com/watch?v=sFNOpfu7kYQ
 
 ### STONKS BOT
-Un robot de trading que gestiona robots de trading, JAJA KE LOKO, pues eso invierte en la bolsa a traves de las performance de otros robots que han obtenido muy buenos resultados. 
+Un robot de trading que gestiona robots de trading, pues eso invierte en la bolsa a traves de las performance de otros robots que han obtenido muy buenos resultados. 
 
-LO EXPLICO MEJOR EN MI BLOG : https://kennethsuarez.es/post/article/?p=Proyecto%20StonksBot%2C%20Como%20duplico%20mi%20dinero%20sin%20hacer%20absolutamente%20nada%20como%20si%20fuera%20un%20fondo%20de%20ahorros
+LO EXPLICO MEJOR EN MI BLOG : https://kennethsuarez.es/
 
-https://www.youtube.com/watch?v=bx5zTpodpcg
-
-https://www.youtube.com/watch?v=7oJl_64jVIw (Aqui un esprint to EZ para terminarlo en 5 min).
 
 ### AIFORTEXT
-Copywritting automatico, utilizando Markov Chains e inteligencia artificial, el objetivo es llenar internet de noticias de calidad y si para ello tengo que llenarlo de Fake News primero que así sea. 
+Copywritting automatico, utilizando Markov Chains e inteligencia artificial
 
 <br>
 
